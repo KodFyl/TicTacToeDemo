@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KodFyl/TicTacToeDemo/static/css/main.396d216d.chunk.css",
+    "main.js": "/KodFyl/TicTacToeDemo/static/js/main.05d5d4a6.chunk.js",
+    "main.js.map": "/KodFyl/TicTacToeDemo/static/js/main.05d5d4a6.chunk.js.map",
+    "runtime-main.js": "/KodFyl/TicTacToeDemo/static/js/runtime-main.37418c7c.js",
+    "runtime-main.js.map": "/KodFyl/TicTacToeDemo/static/js/runtime-main.37418c7c.js.map",
+    "static/js/2.c3bb5c69.chunk.js": "/KodFyl/TicTacToeDemo/static/js/2.c3bb5c69.chunk.js",
+    "static/js/2.c3bb5c69.chunk.js.map": "/KodFyl/TicTacToeDemo/static/js/2.c3bb5c69.chunk.js.map",
+    "index.html": "/KodFyl/TicTacToeDemo/index.html",
+    "precache-manifest.b30e486ff64b9bf060ca91b92e05a7a1.js": "/KodFyl/TicTacToeDemo/precache-manifest.b30e486ff64b9bf060ca91b92e05a7a1.js",
+    "service-worker.js": "/KodFyl/TicTacToeDemo/service-worker.js",
+    "static/css/main.396d216d.chunk.css.map": "/KodFyl/TicTacToeDemo/static/css/main.396d216d.chunk.css.map",
+    "static/js/2.c3bb5c69.chunk.js.LICENSE.txt": "/KodFyl/TicTacToeDemo/static/js/2.c3bb5c69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37418c7c.js",
+    "static/js/2.c3bb5c69.chunk.js",
+    "static/css/main.396d216d.chunk.css",
+    "static/js/main.05d5d4a6.chunk.js"
+  ]
+}
