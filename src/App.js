@@ -37,6 +37,7 @@ function App() {
   }
 
   function onPlayAgain() {
+    gameWinner.current = null;
     setGameState(initialGameState);
     setGameStatus(GAME_STATUS.IN_PROGRESS);
   }
